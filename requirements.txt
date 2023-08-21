@@ -9,3 +9,4 @@ tgcrypto
 uvloop
 opencv-python
 yt_dlp
+telebot
